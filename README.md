@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Simple script to play or pause your firefox with playerctl linux command
 
 _Get started using GitHub in less than an hour._
 
